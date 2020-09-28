@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Score</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="button">+1</string>
+    <string name="button2">+2</string>
+    <string name="button3">+3</string>
+    <string name="undoButton">撤销</string>
+    <string name="resetButton">重置</string>
+</resources>

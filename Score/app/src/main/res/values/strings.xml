@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score</string>
+    <string name="TeamA">A队</string>
+    <string name="TeamB">B队</string>
+    <string name="button">+1</string>
+    <string name="button2">+2</string>
+    <string name="button3">+3</string>
+    <string name="undoButton">撤销</string>
+    <string name="resetButton">重置</string>
+</resources>
